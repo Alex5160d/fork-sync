@@ -54,6 +54,10 @@ inputs:
     description: 'Delay amount between retries'
     required: false
     default: 60
+  get_tags:
+    description: 'Should fetch tags'
+    required: false
+    default: false
 
 runs:
   using: 'node20'

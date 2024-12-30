@@ -73,6 +73,7 @@ jobs:
 |   pr_title      | ✅          | Fork Sync              |   Title of the created pull request                  |
 |   pr_message    | ✅          |                        |   Message of the created pull request                |
 |   ignore_fail   | ✅          |                        |   Ignore Exceptions                                  |
+|   get_tags      | ✅          |                        |   Sync tags from the forked repository               |
 
 ⚠️ $current_repo_owner is your own username!
 ⚠️ $current_repo_name is the name of the current repository!
